@@ -85,7 +85,7 @@ Podemos considerar este projeto como sendo divido em três partes:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js][nodejs]. 
+[Git](https://git-scm.com), [Node.js][nodejs], [Yarn][Yarn]. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
 ### 🎲 Rodando o Back End (servidor)
@@ -95,7 +95,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 $ git clone https://github.com/pedroksty/coleta-ecologica.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ecoleta
+$ cd coleta-ecologica
 
 # Vá para a pasta server
 $ cd back-end
@@ -116,7 +116,7 @@ $ yarn dev
 $ git clone https://github.com/pedroksty/coleta-ecologica.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ecoleta
+$ cd coleta-ecologica
 
 # Vá para a pasta da aplicação Front End
 $ cd front-end
@@ -137,7 +137,7 @@ $ yarn dev
 $ git clone https://github.com/pedroksty/coleta-ecologica.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd ecoleta
+$ cd coleta-ecologica
 
 # Vá para a pasta da aplicação Front End
 $ cd mobile
@@ -178,3 +178,4 @@ Feito com ❤️ por Pedro henrique 👋🏽 [Entre em contato!](https://www.lin
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 [rs]: https://rocketseat.com.br
+[yarn]: https://yarnpkg.com/getting-started/install
