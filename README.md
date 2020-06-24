@@ -13,7 +13,7 @@
   </a>
 	
   
-  <a href="https://github.com/pedroksty/ecoleta/commits/master">
+  <a href="https://github.com/pedroksty/coleta-ecologica/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedroksty/coleta-ecologica">
   </a>
 
