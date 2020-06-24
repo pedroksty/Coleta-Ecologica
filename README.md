@@ -76,8 +76,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🚀 Como executar o projeto
 
 Podemos considerar este projeto como sendo divido em três partes:
-1. Back End (pasta server) 
-2. Front End (pasta web)
+1. Back End (pasta back-end) 
+2. Front End (pasta front-end)
 3. Mobile (pasta mobile)
 
 💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
