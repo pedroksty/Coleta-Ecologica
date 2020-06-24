@@ -46,7 +46,7 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
 
 ## 🎨 Layout
 
-### Mobile
+### 📱 Mobile
 
 <p align="center">
   <img alt="Coleta-Ecologica" title="Coleta-Ecologica" src="./assets/home-mobile.png" width="200px">
@@ -54,7 +54,7 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
   <img alt="Coleta-Ecologica" title="Coleta-Ecologica" src="./assets/detalhes-mobile.svg" width="200px">
 </p>
 
-### Web
+### 🧭 Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Coleta-Ecologica" title="Coleta-Ecologica" src="./assets/web.svg" width="400px">
